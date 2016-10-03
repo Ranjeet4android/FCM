@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase Cloud Messaging</string>
+    <string name="notice_board">Firebase Cloud Messaging Tutorial for Android</string>
+    <string name="our_goal">FCM integration in android</string>
+    <string name="instruction">1.Go to firebase console and create a new project.\n2.Now put your app name and select your country.\n
+    3.Now click on Add Firebase to Your Android App.\n4.Now you have to enter your projects package name and click on ADD APP.\n
+    </string>
+    <string name="subscribe">FCM status </string>
+    <string name="status">Welcome back. Your FCM is integrated in your android app</string>
+    <string name="registered">You can receive notification </string>
+    <string name="un_register">You cannot receive notification</string>
+</resources>

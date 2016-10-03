@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "252524253082",
+    "firebase_url": "https://cellular-hold-690.firebaseio.com",
+    "project_id": "cellular-hold-690",
+    "storage_bucket": "cellular-hold-690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252524253082:android:a5034d5737faa17e",
+        "android_client_info": {
+          "package_name": "com.ranjeet.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252524253082-kbomcciq60i2llmla26b46bkb8mndis5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO_9UpZfCCtiXPBDNe7tPZyOVv95ox2BY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
