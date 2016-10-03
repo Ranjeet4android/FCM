@@ -1,0 +1,12 @@
+Firebase Cloud Messaging Tutorial for Android
+
+Creating an Android Studio Project
+Create a new android studio project. Once the project is created copy the package name you can get it from the 
+AndroidManifest.xml file.
+
+Getting a Configuration File:
+
+1. Go to firebase console and create a new project.
+2. Now put your app name and select your country.
+3. Now click on Add Firebase to Your Android App.
+4. Now you have to enter your projects package name and click on ADD APP.
